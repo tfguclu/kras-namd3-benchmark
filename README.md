@@ -3,8 +3,7 @@
 NAMD inputs, analysis code and per-frame data for
 
 > T. F. Guclu, *Physics-validated optimization of GPU-resident molecular dynamics
-> for sampling Switch I opening in unbound KRAS*, submitted to the Journal of
-> Computational Chemistry.
+> for sampling Switch I opening in unbound KRAS*
 
 A 46,326-atom effector-free KRAS-GTP-Mg²⁺ system is simulated with NAMD 3.0.1
 (GPU-resident) on one H100 GPU of MareNostrum 5. Three cumulative changes to the
