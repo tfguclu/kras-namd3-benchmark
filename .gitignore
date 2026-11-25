@@ -1,0 +1,10 @@
+# unpacked by run_all.sh
+data/KRAS_unbound_*
+# written by run_all.sh
+outputs/
+__pycache__/
+*.pyc
+*.dcd
+data/raw/
+._*
+.DS_Store
