@@ -13,7 +13,7 @@ speed from 147 to 499 ns/day, with the Mg²⁺ first coordination shell as the
 acceptance test.
 
 Trajectories (one DCD per replicate, KRAS + GTP + Mg²⁺, 1 ns per frame) are on
-Zenodo: DOI `10.5281/zenodo.XXXXXXX`.
+Zenodo: https://zenodo.org/records/24536911.
 
 ## Contents
 
